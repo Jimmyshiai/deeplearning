@@ -1,4 +1,4 @@
-# Deeplearning study
+# Deep learning
 This git is mainly used to log the whole learning process of machine learning, especially on deeping learning, which aims at achieving the supporting requests being answered automatically.
 
 This git will include the following:
