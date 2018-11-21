@@ -14,3 +14,5 @@ In this section, the following learning steps with the learning materials would 
 https://hackernoon.com/everything-you-need-to-know-about-neural-networks-8988c3ee4491
 2. Understanding the math functions behind deep learning by the example of vallina RNN:
 https://www.analyticsvidhya.com/blog/2017/12/introduction-to-recurrent-neural-networks/
+
+## Aplogize for this git is still in progress, and the official version may come out by the Jan 2019.
