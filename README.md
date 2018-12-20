@@ -6,7 +6,8 @@ This git will include the following:
 2. Auto-response on the supporting requests (Chatbot could be one of options)
 3. Visualize the deep learning ( Understand how deep learning works, then try to utilize transfer learning).
 4. Take BERT to have the text classification.
-5. Timeseries forecast ( RNN, LSTM or Prophet - Linear / Logistic regression)
+5. Have the text classification on Japanese 
+6. Timeseries forecast ( RNN, LSTM or Prophet - Linear / Logistic regression)
 
 #### Proposed learning steps
 
